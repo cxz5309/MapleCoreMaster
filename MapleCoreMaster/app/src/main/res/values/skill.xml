@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="evanSkill">
+        <item>서클 오브 마나</item>
+        <item>서클 오브 윈드</item>
+        <item>서클 오브 어스</item>
+        <item>서클 오브 썬더</item>
+        <item>브레스</item>
+        <item>드래곤 마스터</item>
+    </string-array>
+</resources>
