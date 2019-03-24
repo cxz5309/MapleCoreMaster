@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="evanAuto">
-        <item>6스킬 4코어칸(2중첩)</item>
-        <item>6스킬 6코어칸(3중첩)</item>
-    </string-array>
-</resources>
